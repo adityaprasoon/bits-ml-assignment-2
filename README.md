@@ -61,7 +61,7 @@ The project implements the following five classification models as required:
 Overall Winner for this dataset: Logistic Regression
 
 ## Live Streamlit App Link
-Live Streamlit App Link: <replace-with-your-streamlit-cloud-app-url>
+Live Streamlit App Link: https://bits-ml-assignment-2-aditya-prasoon.streamlit.app
 
 The Streamlit app includes:
 - dataset upload option (CSV)
